@@ -1,3 +1,6 @@
+PERCEPTRONUL SI RETELE DE PERCEPTRONI
+
+Cerinte:
 1. Se da urmatoare multime de antrenare X =[ [0, 0], [0, 1], [1, 0], [1, 1] ], y =
 [-1, 1, 1, 1]. Sa se gaseasca o dreapta care separa perfect multimea de
 antrenare.
