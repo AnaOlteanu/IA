@@ -14,28 +14,37 @@ standard. Antrenati si testati urmatoarele configuratii de retele:
 a. Functia de activare ‘tanh’, hidden_layer_sizes=(1),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=200 (default)
+
 b. Functia de activare ‘tanh’, hidden_layer_sizes=(10),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=200 (default)
+
 c. Functia de activare ‘tanh’, hidden_layer_sizes=(10),
 learning_rate_init=0.00001, momentum=0 (nu vom folosi momentum),
 max_iter=200 (default)
+
 d. Functia de activare ‘tanh’, hidden_layer_sizes=(10),
 learning_rate_init=10, momentum=0 (nu vom folosi momentum),
 max_iter=200 (default)
+
 e. Functia de activare ‘tanh’, hidden_layer_sizes=(10),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iters=20
+
 f. Functia de activare ‘tanh’, hidden_layer_sizes=(10, 10),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=2000
+
 g. Functia de activare ‘relu’, hidden_layer_sizes=(10, 10),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=2000
+
 h. Functia de activare ‘relu’, hidden_layer_sizes=(100, 100),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=2000
+
 i. Functia de activare ‘relu’, hidden_layer_sizes=(100, 100),
 learning_rate_init=0.01, momentum=0.9, max_iter=2000
+
 j. Functia de activare ‘relu’, hidden_layer_sizes=(100, 100),
 learning_rate_init=0.01, momentum=0.9, max_iter=2000, alpha=0.005)
