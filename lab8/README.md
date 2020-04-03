@@ -10,6 +10,7 @@ clasificatorului cu ajutorului functiei plot3d_data_and_decision_function.
 2. Antrenati o retea de perceptroni care sa clasifice cifrele scrise de mana
 MNIST. Datele trebuie normalizate prin scaderea mediei si impartirea la deviatia
 standard. Antrenati si testati urmatoarele configuratii de retele:
+
 a. Functia de activare ‘tanh’, hidden_layer_sizes=(1),
 learning_rate_init=0.01, momentum=0 (nu vom folosi momentum),
 max_iter=200 (default)
